@@ -1,0 +1,1 @@
+The california housing data is obtained from the inbuilt sklearn datasets
